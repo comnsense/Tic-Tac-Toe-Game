@@ -21,10 +21,8 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 - [Design](#design)
   - [Fonts](#fonts)
   - [Color Scheme](#color-scheme)
-- [Built With](#built-with)
-- [Contributing](#contributing)
+
 - [Creator / Maintainer](#creator--maintainer)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -59,12 +57,12 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 
 ### Creator / Maintainer
 
-Mirelse ([mirelse](https://github.com/mirelse))
+comnsens ([mirelse](https://github.com/mirelse))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mailto:mir.else17@gmail.com"> 
+  <a href="mailto:ahwakk@icloud.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
